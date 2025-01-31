@@ -11,6 +11,9 @@
 - HTML
 - Javascript
 
+  ### Quer acessar o site?
+  🌐 https://leticia-rezende.github.io/Gerador-de-senhas/
+
 ### Escolha o tamanho dos caracteres:
 ![Captura de tela 2025-01-10 153203](https://github.com/user-attachments/assets/71e33e5f-92c8-449a-8191-15e93e2a7b9a)
 
