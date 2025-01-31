@@ -5,7 +5,7 @@
 - Pblico Alvo: qualquer pessoa;
 - Senha: você escolhe o tamanho da senha que quer gerar. Min: 8 Max: 25
 
-  ### Teconologias utilizadas 🖥️:
+  ### Tecnologias utilizadas 🖥️:
 
 - CSS
 - HTML
